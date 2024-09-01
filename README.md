@@ -81,7 +81,6 @@
        
         <H3> Ismail Ali Idow</H3>
         <H3> ID: 71</H3>
-        <h2>Celceli: A <br> Celceliska waa inusan ka hooseynin D</h2>
         <hr>
        
         <table>
